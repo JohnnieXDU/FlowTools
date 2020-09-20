@@ -1,8 +1,7 @@
 # FlowTools
 An efficient tool for optical flow / scene flow analysis.
 
-usage:
-
+## usage
 from flowtools import FlowTools
 
 FT = FLowTools()
